@@ -1,0 +1,381 @@
+{
+  "sections": [
+    {
+      "id": "1",
+      "title": "Layout",
+      "type": "multi_select",
+      "content": [
+        {
+          "id": "1",
+          "title": "L-Shape",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "2",
+          "title": "E- Shape",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "3",
+          "title": "Squire",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "4",
+          "title": "90 Degree",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "5",
+          "title": "D- Shape",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "6",
+          "title": "Horizontal- Shape",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "7",
+          "title": "Two Squire - Shape",
+          "color": null,
+          "icon": ""
+        },
+        {
+          "id": "8",
+          "title": "Circle Shape",
+          "color": null,
+          "icon": ""
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Availability",
+      "type": "multi_select",
+      "content": [
+        {
+          "id": "9",
+          "title": "In stock",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "10",
+          "title": "Out of stock",
+          "color": null,
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Price",
+      "type": "price_range",
+      "range_data": {
+        "min_price": 0.0,
+        "max_price": 100.0
+      },
+      "content": null
+    },
+    {
+      "id": "4",
+      "title": "Product Type",
+      "type": "multi_select",
+      "content": [
+        {
+          "id": "11",
+          "title": "Arm Chair",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "12",
+          "title": "Chair",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "13",
+          "title": "Side Table",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "14",
+          "title": "Swivel Chair",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "15",
+          "title": "Table",
+          "color": null,
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Brand",
+      "type": "multi_select",
+      "content": [
+        {
+          "id": "16",
+          "title": "Hatil Furniture",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "17",
+          "title": "Regal Furniture",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "18",
+          "title": "Grid Furniture",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "19",
+          "title": "OTOBI",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "20",
+          "title": "Table",
+          "color": null,
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Color",
+      "type": "multi_color_select",
+      "content": [
+        {
+          "id": "20",
+          "title": "black",
+          "color": "#00000",
+          "icon": null
+        },
+        {
+          "id": "17",
+          "title": "Pale Yellow",
+          "color": "#F5EECA",
+          "icon": null
+        },
+        {
+          "id": "18",
+          "title": "Pale Orange",
+          "color": "#FACC15",
+          "icon": null
+        },
+        {
+          "id": "19",
+          "title": "Gainsboro",
+          "color": "#F4F4F4",
+          "icon": null
+        },
+        {
+          "id": "20",
+          "title": "Orange",
+          "color": "#FACC15",
+          "icon": null
+        },
+        {
+          "id": "21",
+          "title": "red",
+          "color": "#FF0000",
+          "icon": null
+        },
+        {
+          "id": "22",
+          "title": "Salmon Pink",
+          "color": "#F97066",
+          "icon": null
+        },
+        {
+          "id": "23",
+          "title": "green",
+          "color": "#039855",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Size",
+      "type": "single_select",
+      "content": [
+        {
+          "id": "24",
+          "title": "Small",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "25",
+          "title": "Medium",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "26",
+          "title": "Large",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "27",
+          "title": "Extra Large",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "28",
+          "title": "XXL",
+          "color": null,
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Color",
+      "type": "single_color_select",
+      "content": [
+        {
+          "id": "20",
+          "title": "black",
+          "color": "#00000",
+          "icon": null
+        },
+        {
+          "id": "17",
+          "title": "Pale Yellow",
+          "color": "#F5EECA",
+          "icon": null
+        },
+        {
+          "id": "18",
+          "title": "Pale Orange",
+          "color": "#FACC15",
+          "icon": null
+        },
+        {
+          "id": "19",
+          "title": "Gainsboro",
+          "color": "#F4F4F4",
+          "icon": null
+        },
+        {
+          "id": "20",
+          "title": "Orange",
+          "color": "#FACC15",
+          "icon": null
+        },
+        {
+          "id": "21",
+          "title": "red",
+          "color": "#FF0000",
+          "icon": null
+        },
+        {
+          "id": "22",
+          "title": "Salmon Pink",
+          "color": "#F97066",
+          "icon": null
+        },
+        {
+          "id": "23",
+          "title": "green",
+          "color": "#039855",
+          "icon": null
+        },{
+          "id": "24",
+          "title": "blue",
+          "color": "#5D3FB2",
+          "icon": null
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "title": "TAGS",
+      "type": "multi_select_tags",
+      "content": [
+        {
+          "id": "24",
+          "title": "Black",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "25",
+          "title": "gray",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "25",
+          "title": "L",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "26",
+          "title": "M",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "27",
+          "title": "Pink",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "28",
+          "title": "Red",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "29",
+          "title": "White",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "30",
+          "title": "X",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "31",
+          "title": "XL",
+          "color": null,
+          "icon": null
+        },
+        {
+          "id": "32",
+          "title": "XXL",
+          "color": null,
+          "icon": null
+        }
+      ]
+    }
+  ]
+}

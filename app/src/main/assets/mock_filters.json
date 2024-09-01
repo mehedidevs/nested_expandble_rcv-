@@ -1,0 +1,12 @@
+{
+  "filters": {
+    "layout": ["L-Shape", "E-Shape", "Square", "90 Degree", "D-Shape", "Horizontal-Shape", "Two Square-Shape", "Circle Shape"],
+    "availability": ["In Stock", "Out of Stock"],
+    "price": {"min": 0, "max": 1000},
+    "productType": ["Furniture", "Electronics", "Clothing", "Toys"],
+    "brand": ["Brand A", "Brand B", "Brand C"],
+    "color": ["#FF0000", "#00FF00", "#0000FF"],
+    "size": ["S", "M", "L", "XL"],
+    "tags": ["Black", "Gray", "L", "M", "Pink", "Red", "White"]
+  }
+}
